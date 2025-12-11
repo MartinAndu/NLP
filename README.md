@@ -1,3 +1,6 @@
+# CEIA - Procesamiento del Lenguaje Natural 1
+![img.png](img.png)
+
 
 ---
 👤 Autor
@@ -5,6 +8,7 @@
 Martín Andújar
 CEIA — 2025
 ```
+
 
 Este repositorio reúne la resolución completa de los Desafíos 1, 2, 3 y 4 de la materia, conformando un
 recorrido progresivo por distintas etapas del aprendizaje profundo aplicado.
